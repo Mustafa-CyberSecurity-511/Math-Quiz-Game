@@ -12,5 +12,5 @@ A simple math quiz game written in C++ with multiple difficulty levels and opera
 ## How to Run
 1. Compile the code:
 ```bash
-g++ main.cpp -o MathQuiz
-./main
+g++ Game.cpp -o Game
+./Game
